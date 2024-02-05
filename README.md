@@ -1,1 +1,1 @@
-# online_reservation_system
+# Online-Reservation-System- An online reservation system using java and mysql
